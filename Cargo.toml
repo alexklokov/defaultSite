@@ -11,3 +11,4 @@ crate-type = ["dylib"]
 
 [dependencies]
 server = { git = "https://github.com/alexklokov/webServer" }
+gearrs = { git = "https://github.com/alexklokov/Gearrs" }
